@@ -1,0 +1,22 @@
+{
+    "kasalar": [
+      {
+        "isim": "vipkasa",
+        "rolID": "1175122766375170180",
+        "mesajlarDosya": "1vipkasa.txt",
+        "gunlukKullanim": true
+      },
+      {
+        "isim": "degerlikasa",
+        "rolID": "1175483829352407140",
+        "mesajlarDosya": "2degerlikasa.txt",
+        "gunlukKullanim": true
+      },
+      {
+        "isim": "ozelkasa",
+        "rolID": "1175122961775198228",
+        "mesajlarDosya": "3ozelkasa.txt",
+        "gunlukKullanim": true
+      }
+    ]
+  }

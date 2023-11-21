@@ -1,0 +1,22 @@
+{
+  "name": "ticket-bot",
+  "version": "0.0.1",
+  "description": "Discord Ticket Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "lightningx001",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/builders": "^1.0.0",
+    "discord.js": "^14.13.0",
+    "fs": "^0.0.1-security",
+    "moment": "^2.29.4",
+    "orio.db": "^3.1.2"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}
